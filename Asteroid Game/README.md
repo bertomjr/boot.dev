@@ -89,4 +89,4 @@ When an asteroid hits the ship, the terminal prints `Game over!` and the program
 
 Built while following [Boot.dev's Build Asteroids course](https://www.boot.dev/courses/build-asteroids-python). Boot.dev provides the project brief, instruction, and starter material; this repository contains my work on the guided project.
 
-Project by [Roberto Marcillo Jr.](https://github.com/bertomjr).
+Project by [Roberto Marcillo Jr.](https://github.com/bertomjr)
