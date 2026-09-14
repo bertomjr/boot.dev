@@ -1,7 +1,7 @@
 # Asteroid Game
 
-![(<img width="1340" height="815" alt="Screenshot From 2026-09-14 00-58-48" src="https://github.com/user-attachments/assets/5034a2d1-644b-492e-9da4-16f0d9e501a9" />
-)]
+(<img width="1340" height="815" alt="Screenshot From 2026-09-14 00-58-48" src="https://github.com/user-attachments/assets/5034a2d1-644b-492e-9da4-16f0d9e501a9" />
+)
 
 A small Asteroids-style arcade game built with Python and Pygame while following [Boot.dev's Build Asteroids guided project](https://www.boot.dev/courses/build-asteroids-python).
 
